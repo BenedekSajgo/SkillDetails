@@ -1,0 +1,32 @@
+.navbar{
+    position: fixed;
+}
+
+.menu{
+    /* background-color: rgba(35,151,212,255); */
+    /* color: white; */
+    width: auto;
+    height: 94vh;
+}
+
+.menu :focus{
+    color: rgba(35,151,212,255);
+}
+
+.logoutmenu{
+    /* background-color: rgba(35,151,212,255); */
+    width: auto;
+    height: 6vh;
+}
+
+.logoutmenu :hover{
+    color: red;
+}
+
+/* .ant-menu-item-selected.logoutmenu {
+    background-color: #ffffff !important;
+} */
+
+.ant-menu-inline-collapsed-tooltip { 
+    display: none;
+}

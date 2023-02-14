@@ -1,0 +1,29 @@
+.bar{
+    background-color: rgb(255, 255, 255);
+    border-right: solid rgb(217,217,217) 1px;
+    height: 100vh
+}
+
+.search-field{
+    /* padding-top: 15px;
+    padding-left: 15px;
+    margin-bottom: -9px; */
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-bottom: solid rgb(217,217,217) 1px;
+}
+
+.button{
+    border-width: 0;
+    margin-right: 15px
+    /* margin-left: 5px */
+}
+
+.user{
+    background-color: rgb(255, 255, 255);
+}
+
+.restore {
+    color:rgb(65, 143, 63);
+}
